@@ -1,4 +1,4 @@
-# GitExercise_Conflicts
+# GitExercise_Conflicts.
 
 
 ## Purpose
